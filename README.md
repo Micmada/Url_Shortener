@@ -68,12 +68,14 @@ The front-end consists of a basic HTML form where users can input URLs to shorte
 ## Setting Up the Project
 ### Back-End (Flask)
 1. Clone the Repository:
+    
     Clone the repository to your local machine.
     ```bash
     git clone https://github.com/Micmada/url-shortener.git
     cd url-shortener
     ```
 2. Set up a Virtual Environment(Optional):
+    
     It's recommended to use a virtual environment to manage project dependencies.
     ```bash
     python -m venv venv
@@ -81,6 +83,7 @@ The front-end consists of a basic HTML form where users can input URLs to shorte
     ```
 
 3. Install Dependencies: 
+    
     Install the required Python libraries:
     ```bash
     pip install -r requirements.txt
@@ -95,9 +98,11 @@ The front-end consists of a basic HTML form where users can input URLs to shorte
 
 ### Front-End (HTML/CSS/JS)
 1. Create a frontend Folder:
+    
     Inside the project directory, create a folder called frontend, and place your HTML, CSS, and JavaScript files inside.
 
 2. Open the Front-End in a Browser:
+    
     You can either open the index.html file directly in your browser or set up a local server to serve the front-end:
     ```bash
     python -m http.server 8000
