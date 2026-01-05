@@ -1,3 +1,17 @@
+---
+description: Flask-based URL shortener with RESTful API
+details: >
+  Shortens long URLs and retrieves original URLs using a short key.
+  Frontend is optional; API endpoints handle shortening and redirection.
+technologies:
+  - flask
+  - python
+  - sqlite
+  - rest
+hostedUrl: 
+---
+
+
 # URL Shortener API
 
 This is a simple URL shortener application built with Flask and a front-end HTML/CSS/JavaScript. The back-end exposes a RESTful API that allows users to shorten URLs and retrieve the original URLs using the shortened version.
