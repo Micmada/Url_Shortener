@@ -11,6 +11,7 @@ hostedUrl:
 ---
 
 
+
 # URL Shortener API
 
 This is a simple URL shortener application built with Flask and a front-end HTML/CSS/JavaScript. The back-end exposes a RESTful API that allows users to shorten URLs and retrieve the original URLs using the shortened version.
