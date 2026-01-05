@@ -5,7 +5,6 @@ details: >
   Frontend is optional; API endpoints handle shortening and redirection.
 technologies:
   - flask
-  - python
   - sqlite
   - rest
 hostedUrl: 
